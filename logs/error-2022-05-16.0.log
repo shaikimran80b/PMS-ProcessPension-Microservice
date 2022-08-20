@@ -1,0 +1,18 @@
+2022-05-15_23-51-12 [http-nio-8100-exec-9] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-9] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:23"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-10] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-10] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:24"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-1] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-1] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:24"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-2] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-2] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:25"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-3] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-3] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:25"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-4] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-4] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:25"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-5] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-5] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:26"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-6] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-6] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:46"}]
+2022-05-15_23-51-12 [http-nio-8100-exec-7] ERROR c.p.p.p.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-05-15_23-51-12 [http-nio-8100-exec-7] ERROR c.p.p.p.e.GlobalExceptionHandler - [404] during [GET] to [http://localhost:8200/pensioner/api/v1/PensionerDetailByAadhaar/420555821046] [PensionerDetailFeignClient#getPensionerDetailByAadhaar(String,long)]: [{"timeStamp":"16-05-2022 12:19:46"}]
